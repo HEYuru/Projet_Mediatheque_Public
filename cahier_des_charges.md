@@ -1,4 +1,4 @@
-# Plan du Cahier des charges
+# Cahier des charges
 
 Dans une volonté d’agrandissement et de modernisation, la Bibliothèque Universitaire d’Orsay (le soumissionnaire), décide de proposer à ses utilisateurs, en plus des livres et manuels scolaires, des CD, des DVD et divers contenus. C’est dans ce cadre que, en tant que prestataire, nous a été confié la mission suivante : 
 ##### « La réalisation d’un site internet accessible à tous, qui permettra une exposition facile et directe de toutes les oeuvres dont dispose la médiathèque, ainsi qu’une gestion simple, efficace et rapide de la part des gérants. » 
